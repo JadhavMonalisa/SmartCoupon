@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9030101252",
+    "firebase_url": "https://smartcoupon-71b80.firebaseio.com",
+    "project_id": "smartcoupon-71b80",
+    "storage_bucket": "smartcoupon-71b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9030101252:android:8971eb17a6972360f40851",
+        "android_client_info": {
+          "package_name": "com.unitglo.couponapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9030101252-8at28cbn83ruqam6doi0vn5agqlfhegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5eBJVwU8WrrT6MJd_4NVbOCIBBCEE6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9030101252-8at28cbn83ruqam6doi0vn5agqlfhegm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9030101252-h0saedcc9246900g278qf6otukdb5caf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unitglo.couponapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
